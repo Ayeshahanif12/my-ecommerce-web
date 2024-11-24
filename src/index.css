@@ -84,5 +84,5 @@ button:focus-visible {
 }
 
 .snake-segment {
-  animation: grow 0.2s ease-out;
+  animation: grow 0.2s ease-out ;
 }
