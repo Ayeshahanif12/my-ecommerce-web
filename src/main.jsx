@@ -8,9 +8,9 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
   <ChakraProvider>
 
-    <App title="SnakeGame" snakeProp={[{ x: 10, y: 10 }]} />
+    <App title="ecommerce web" />
 
   </ChakraProvider>
 </StrictMode>
 )
-
+ export default root; 
